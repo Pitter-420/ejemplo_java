@@ -16,7 +16,7 @@ public class EjemploMatriz {
        autos [2][0] = "subara"; 
        autos [2][1] ="zusuki";
        
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             System.out.println();
             for (int j = 0; j < 2; j++) {
                 System.out.print(autos [i][j]+" ");
